@@ -1,16 +1,22 @@
-# bmi_calculator
+# BMI Calculating App
 
-A new Flutter project.
+This is a flutter-developed application writing in Dart language.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+It can be installed on
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+Android
+```
+```bash
+IOS
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```python
+To get actual Body mass index number.
+```
+![Screenshot_20230108-063910](https://user-images.githubusercontent.com/74013982/211175490-ab8e57ce-766a-46a3-adf3-2a2b50bf406c.png)
+![Screenshot_20230108-063921](https://user-images.githubusercontent.com/74013982/211175491-0e240b27-36d7-4652-90d7-f0e05843b17c.png)
